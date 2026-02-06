@@ -1,6 +1,6 @@
 {
   "name": "@pyramation/us-states",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Dan Lynch <pyramation@gmail.com>",
   "description": "us-states",
   "homepage": "https://github.com/pyramation/data.mom",
@@ -23,7 +23,7 @@
   },
   "keywords": [],
   "devDependencies": {
-    "pgsql-test": "^2.18.15",
-    "makage": "0.1.9"
+    "makage": "0.1.9",
+    "pgsql-test": "^2.18.15"
   }
 }
