@@ -5,10 +5,10 @@
 </p>
 
 <p align="center" width="100%">
-  <a href="https://github.com/pyramation/us-states/actions/workflows/ci.yml">
-    <img height="20" src="https://github.com/pyramation/us-states/actions/workflows/ci.yml/badge.svg" />
+  <a href="https://github.com/pyramation/data.mom/actions/workflows/ci.yml">
+    <img height="20" src="https://github.com/pyramation/data.mom/actions/workflows/ci.yml/badge.svg" />
   </a>
-   <a href="https://www.npmjs.com/package/us-states"><img height="20" src="https://img.shields.io/github/package-json/v/pyramation/us-states?filename=packages%2Fus-states%2Fpackage.json"/></a>
+   <a href="https://www.npmjs.com/package/us-states"><img height="20" src="https://img.shields.io/github/package-json/v/pyramation/data.mom?filename=packages%2Fus-states%2Fpackage.json"/></a>
 </p>
 
 ## Developing

@@ -11,7 +11,7 @@
   "registry": "https://registry.npmjs.org",
   "command": {
     "create": {
-      "homepage": "https://github.com/pyramation/us-states",
+      "homepage": "https://github.com/pyramation/data.mom",
       "license": "MIT",
       "access": "restricted"
     },
